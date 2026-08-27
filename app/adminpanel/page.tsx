@@ -2553,7 +2553,7 @@ export default function EcommerceAdminPanel() {
                 </div>
                 <div>
                   <label className="block text-[11px] font-extrabold uppercase text-[#86868b] mb-1 pl-2">
-                    Stock Quantity
+                    Stock Quantities
                   </label>
                   <input
                     type="number"
