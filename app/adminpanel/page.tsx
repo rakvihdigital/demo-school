@@ -135,7 +135,7 @@ export default function EcommerceAdminPanel() {
       sku: 'SMRT-WT-07',
       barcode: '8909876543211',
       category: 'Wearables',
-      subCategory: 'Smartwatch',
+      subCategory: 'Smartwatches',
       price: 21999,
       stock: 8,
       status: 'Low Stock',
